@@ -12,7 +12,7 @@ print("Example - 2.\n")
 
 x = input("Enter a Number: (Try 1, 0, 11.1 and -1.\n")
 print("\nInput: ", x, "Type: ", type(x))
-print("\nType conversion to float.")
+print("\nType conversion from string to float.")
 x_float = float(x)
 print(x_float, type(x_float))
 
@@ -28,7 +28,7 @@ try:
 except ValueError:
     print("\nConverting a float value from str to int throws Value Error.")
 
-print("\nType conversion from string to float.")
+print("\nType conversion from float to string.")
 x_str = str(x_float)
 print(x_str, type(x_str))
 
