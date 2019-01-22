@@ -1,7 +1,7 @@
 # Input Section
-x_initial, y_initial = map(int, input().split(" "))
-n = int(input())
-x_final, y_final = map(int, input().split(" "))
+x_initial, y_initial = map(int, input("Initial Position: ").split(" "))
+n = int(input("Moves: "))
+x_final, y_final = map(int, input("Final Position: ").split(" "))
 
 # Variables required are declared
 visited, temp = list(), list()
@@ -47,4 +47,5 @@ for i in range(n):
 
 # Final Calculations
 found = visited.count([x_final, y_final])
-print(found*1.0/len(visited))
+print(found*100.0/len(visited), '%')
+

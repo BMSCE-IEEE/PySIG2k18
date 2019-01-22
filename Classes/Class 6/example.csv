@@ -1,0 +1,50 @@
+Name,Sex,Age,Ticket,Fare,Cabin,Embarked
+"Braund, Mr. Owen Harris",male,22,A/5 21171,7.25,,S
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,PC 17599,71.2833,C85,C
+"Heikkinen, Miss. Laina",female,26,STON/O2. 3101282,7.925,,S
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,113803,53.1,C123,S
+"Allen, Mr. William Henry",male,35,373450,8.05,,S
+"Moran, Mr. James",male,,330877,8.4583,,Q
+"McCarthy, Mr. Timothy J",male,54,17463,51.8625,E46,S
+"Palsson, Master. Gosta Leonard",male,2,349909,21.075,,S
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,347742,11.1333,,S
+"Nasser, Mrs. Nicholas (Adele Achem)",female,14,237736,30.0708,,C
+"Sandstrom, Miss. Marguerite Rut",female,4,PP 9549,16.7,G6,S
+"Bonnell, Miss. Elizabeth",female,58,113783,26.55,C103,S
+"Saundercock, Mr. William Henry",male,20,A/5. 2151,8.05,,S
+"Andersson, Mr. Anders Johan",male,39,347082,31.275,,S
+"Vestrom, Miss. Hulda Amanda Adolfina",female,14,350406,7.8542,,S
+"Hewlett, Mrs. (Mary D Kingcome) ",female,55,248706,16,,S
+"Rice, Master. Eugene",male,2,382652,29.125,,Q
+"Williams, Mr. Charles Eugene",male,,244373,13,,S
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,345763,18,,S
+"Masselmani, Mrs. Fatima",female,,2649,7.225,,C
+"Fynney, Mr. Joseph J",male,35,239865,26,,S
+"Beesley, Mr. Lawrence",male,34,248698,13,D56,S
+"McGowan, Miss. Anna ""Annie""",female,15,330923,8.0292,,Q
+"Sloper, Mr. William Thompson",male,28,113788,35.5,A6,S
+"Palsson, Miss. Torborg Danira",female,8,349909,21.075,,S
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,347077,31.3875,,S
+"Emir, Mr. Farred Chehab",male,,2631,7.225,,C
+"Fortune, Mr. Charles Alexander",male,19,19950,263,C23 C25 C27,S
+"O'Dwyer, Miss. Ellen ""Nellie""",female,,330959,7.8792,,Q
+"Todoroff, Mr. Lalio",male,,349216,7.8958,,S
+"Uruchurtu, Don. Manuel E",male,40,PC 17601,27.7208,,C
+"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,PC 17569,146.5208,B78,C
+"Glynn, Miss. Mary Agatha",female,,335677,7.75,,Q
+"Wheadon, Mr. Edward H",male,66,C.A. 24579,10.5,,S
+"Meyer, Mr. Edgar Joseph",male,28,PC 17604,82.1708,,C
+"Holverson, Mr. Alexander Oskar",male,42,113789,52,,S
+"Mamee, Mr. Hanna",male,,2677,7.2292,,C
+"Cann, Mr. Ernest Charles",male,21,A./5. 2152,8.05,,S
+"Vander Planke, Miss. Augusta Maria",female,18,345764,18,,S
+"Nicola-Yarred, Miss. Jamila",female,14,2651,11.2417,,C
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,7546,9.475,,S
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,11668,21,,S
+"Kraeff, Mr. Theodor",male,,349253,7.8958,,C
+"Laroche, Miss. Simonne Marie Anne Andree",female,3,SC/Paris 2123,41.5792,,C
+"Devaney, Miss. Margaret Delia",female,19,330958,7.8792,,Q
+"Rogers, Mr. William John",male,,S.C./A.4. 23567,8.05,,S
+"Lennon, Mr. Denis",male,,370371,15.5,,Q
+"O'Driscoll, Miss. Bridget",female,,14311,7.75,,Q
+"Samaan, Mr. Youssef",male,,2662,21.6792,,C

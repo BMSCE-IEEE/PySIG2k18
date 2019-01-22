@@ -1,10 +1,10 @@
 import time
 
 
-def fibo(n):
+def recursive_fibonacci(n):
     if n == 0 or n == 1:
         return 1
-    return fibo(n-1) + fibo(n-2)
+    return recursive_fibonacci(n-1) + recursive_fibonacci(n-2)
 
 
 def iterative_solution(n):
@@ -15,11 +15,11 @@ def iterative_solution(n):
 
 
 n = int(input())
-# 33
+# Would recommend a maximum input of 33
 
 # Recursive Benchmark
 start_time = time.time()
-print(fibo(n))
+print(recursive_fibonacci(n))
 print(time.time() - start_time)
 
 # Iterative Benchmark
